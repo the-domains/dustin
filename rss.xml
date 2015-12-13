@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dustin W. Stout]]></title>
+        <description><![CDATA[Dustin W. Stout]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Dec 2015 21:17:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Who is Dustin W. Stout?]]></title>
+            <description><![CDATA[<article><h1>Who is Dustin W. Stout?</h1><p>On Feb. 17, 1985 in small town Sharon, Pennsylvania I came into the world. I was born to a hard-working bartender mom and a regional rock-star dad.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f381b28a6bcc608a706b408d2fb10c10f51db6af.jpg"></article>]]></description>
+            <link>undefinedwho-is-dustin-w-stout/index.html</link>
+            <guid isPermaLink="false">2d1945d2-37a3-4392-8374-fa3aa75698b0</guid>
+            <pubDate>Sun, 13 Dec 2015 21:17:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
