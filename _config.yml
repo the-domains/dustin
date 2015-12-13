@@ -1,7 +1,7 @@
 name: Dustin
 favicon: null
-layout_spectrum: 0.9486100426875055
-typography_spectrum: 0.9521627761423588
+layout_spectrum: 0.61603
+typography_spectrum: 0.97219
 title: Dustin W. Stout
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#333333'
+    - '#ca3538'
+    - '#6aca3f'
+    - '#727272'
   brandStrength: 0.8728901518043131
-  lightness: 0.3839647122658789
-  saturation: 0.2879902869462967
-  rhythmicContrast: 0.3496260105166584
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
