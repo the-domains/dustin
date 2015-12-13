@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dustin W. Stout]]></title>
         <description><![CDATA[Dustin W. Stout]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dustin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Dec 2015 21:17:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Dec 2015 21:28:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dustin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Best Social Media Image Templates]]></title>
+            <description><![CDATA[<article><h1>Best Social Media Image Templates</h1><p>What size do my images need to be for Facebook? Twitter? Google+... There are countless blog posts and infographics telling you the social media image sizes you need to know. You know the biggest problem with all of them? They're too stinking complicated! There are only three dimensions you need to know.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/340bf869d0a19d60b02c8364891d93f73a7814ad.jpg"></article>]]></description>
+            <link>http://dustn.tv/social-images/</link>
+            <guid isPermaLink="false">e98d18b8-24f0-4c78-a141-f3580ddf8017</guid>
+            <pubDate>Sun, 13 Dec 2015 21:28:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who is Dustin W. Stout?]]></title>
             <description><![CDATA[<article><h1>Who is Dustin W. Stout?</h1><p>On Feb. 17, 1985 in small town Sharon, Pennsylvania I came into the world. I was born to a hard-working bartender mom and a regional rock-star dad.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f381b28a6bcc608a706b408d2fb10c10f51db6af.jpg"></article>]]></description>
-            <link>undefinedwho-is-dustin-w-stout/index.html</link>
+            <link>https://thegrid.ai/dustin/who-is-dustin-w-stout/index.html</link>
             <guid isPermaLink="false">2d1945d2-37a3-4392-8374-fa3aa75698b0</guid>
             <pubDate>Sun, 13 Dec 2015 21:17:59 GMT</pubDate>
         </item>
