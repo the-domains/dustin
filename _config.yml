@@ -1,7 +1,7 @@
 name: Dustin
 favicon: null
-layout_spectrum: 0.61603
-typography_spectrum: 0.97219
+layout_spectrum: 0.62437
+typography_spectrum: 0.72678
 title: Dustin W. Stout
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.8728901518043131
   lightness: 1
   saturation: 1
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
