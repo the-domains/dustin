@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: A small town boy turned digital marketing mogul.
-datePublished: '2015-12-13T21:17:59.631Z'
-dateModified: '2015-12-13T21:17:38.421Z'
+datePublished: '2015-12-13T22:19:29.537Z'
+dateModified: '2015-12-13T22:19:23.116Z'
 title: Who is Dustin W. Stout?
 author: []
+sourcePath: _posts/2015-12-13-who-is-dustin-w-stout.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-13-who-is-dustin-w-stout.md
-published: true
 url: who-is-dustin-w-stout/index.html
 _type: Article
 
